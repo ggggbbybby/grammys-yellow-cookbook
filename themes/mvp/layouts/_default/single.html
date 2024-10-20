@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  {{ with .Params.author }}
+  <p>
+    💖 <i>recipe from {{ . }}</i> 💖
+  </p>
+  {{ end }}
+
+  {{ with .Params.yield }}
+  <p>
+    <b>makes {{ . }}</b>
+  </p>
+  {{ end }}
+
+  {{ .Content }}
+  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
+{{ end }}

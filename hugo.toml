@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'The Yellow Cookbook'
+theme = 'mvp'
+
+[params]
+author = ''
+yield = ''
+
+[taxonomies]
+tag='tags'
