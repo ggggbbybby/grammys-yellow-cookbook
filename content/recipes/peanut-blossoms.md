@@ -4,6 +4,7 @@ draft = false
 title = 'Peanut Blossoms'
 author = 'Lois Marvel'
 yield = '3 dozen'
+tags = ['cookies']
 +++
 
 * 1 3/4 cups flour

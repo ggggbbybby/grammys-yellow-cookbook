@@ -2,7 +2,7 @@
 date = '2024-10-20T11:28:47-07:00'
 draft = false
 title = 'Choco-Cherry Nut Drops'
-tags = ['cookies']
+tags = ['cookies', 'Pillsbury Recipes']
 author = 'Ann Pillsbury'
 yield = '5 to 6 dozen cookies'
 +++

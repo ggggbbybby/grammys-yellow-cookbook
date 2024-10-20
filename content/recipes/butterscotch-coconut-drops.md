@@ -3,7 +3,7 @@ date = '2024-10-20T11:28:32-07:00'
 draft = false
 title = 'Butterscotch Coconut Drops'
 author = 'Mary Ellen Cravatta'
-tags = ['cookies']
+tags = ['cookies', 'Pillsbury Recipes']
 yield = '4 1/2 dozen cookies'
 +++
 
