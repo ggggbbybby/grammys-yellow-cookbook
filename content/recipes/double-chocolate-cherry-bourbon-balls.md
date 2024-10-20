@@ -2,8 +2,8 @@
 date = '2024-10-20T07:40:38-07:00'
 draft = false
 title = 'Double Chocolate Cherry Bourbon Balls'
-tags = ['cookies']
-author = 'Eileen'
+tags = ['cookies', 'boozy']
+author = 'Eileen Green'
 yield = 'about 54'
 +++
 

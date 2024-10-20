@@ -2,7 +2,7 @@
 date = '2024-10-20T08:58:08-07:00'
 draft = false
 title = 'Globetrotters (Mexico style)'
-tags = ['drinks', 'confusing']
+tags = ['drinks', 'confusing', 'boozy']
 author = 'Nancy Albright'
 yield = 'enough for 4 people'
 +++

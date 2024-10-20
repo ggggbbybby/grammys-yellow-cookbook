@@ -2,7 +2,7 @@
 date = '2024-10-20T11:19:17-07:00'
 draft = false
 title = 'Walnut Rum Balls (or Bourbon or Brandy)'
-tags = ['cookies']
+tags = ['cookies', 'boozy']
 yield = '3 1/2 dozen balls'
 +++
 
