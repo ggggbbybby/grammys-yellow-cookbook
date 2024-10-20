@@ -2,7 +2,8 @@
 date = '2024-10-20T09:01:55-07:00'
 draft = true
 title = 'Angel Thumbprint Cookies'
-author = 'Ricki K (1966)'
+author = 'Ricki K'
+year = 1966
 yield = '2.5 - 3 dozen'
 +++
 
