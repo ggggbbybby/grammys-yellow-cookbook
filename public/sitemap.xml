@@ -2,10 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/author/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/brazilian_creams/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cookies/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/lois-marvel/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-20T10:05:34-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/scotch_toffee_bars/</loc>
+    <lastmod>2024-10-20T10:05:17-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/pecan_tea_balls/</loc>
+    <lastmod>2024-10-20T09:40:14-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/confusing/</loc>
+    <lastmod>2024-10-20T09:40:05-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/oatmeal_cookies/</loc>
+    <lastmod>2024-10-20T09:40:05-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/recipes/scotch_shortbread/</loc>
+    <lastmod>2024-10-20T09:06:59-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/recipes/angel_thumbprint_cookies/</loc>
     <lastmod>2024-10-20T09:01:55-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/recipes/</loc>
+    <loc>http://localhost:1313/author/ricki-k-1966/</loc>
     <lastmod>2024-10-20T09:01:55-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/drinks/</loc>
@@ -14,11 +47,8 @@
     <loc>http://localhost:1313/recipes/globetrotters/</loc>
     <lastmod>2024-10-20T08:58:08-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/author/nancy-albright/</loc>
     <lastmod>2024-10-20T08:58:08-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cookies/</loc>
-    <lastmod>2024-10-20T08:54:26-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/refrigerator_cookies/</loc>
     <lastmod>2024-10-20T08:54:26-07:00</lastmod>
@@ -30,6 +60,9 @@
     <lastmod>2024-10-20T08:11:53-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/recipes/double-chocolate-cherry-bourbon-balls/</loc>
+    <lastmod>2024-10-20T07:40:38-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/eileen/</loc>
     <lastmod>2024-10-20T07:40:38-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
