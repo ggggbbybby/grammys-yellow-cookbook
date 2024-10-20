@@ -8,4 +8,5 @@ author = ''
 yield = ''
 
 [taxonomies]
-tag='tags'
+tag = 'tags'
+author = 'author'

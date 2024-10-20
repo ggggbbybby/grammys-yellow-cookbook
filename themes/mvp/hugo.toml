@@ -12,6 +12,11 @@ name = 'Tags'
 pageRef = '/tags'
 weight = 30
 
+[[menus.main]]
+name = 'Authors'
+pageRef = '/author'
+weight = 20
+
 [module]
   [module.hugoVersion]
     extended = false
