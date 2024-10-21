@@ -1,7 +1,7 @@
 +++
 date = '2024-10-20T14:00:36-07:00'
 draft = false
-title = 'Slice 'N' Serve Cookies'
+title = "Slice 'N' Serve Cookies"
 author = 'Mrs Clyde Brethorat'
 yield = '3 dozen'
 tags = ['cookies', 'Pillsbury Recipes']
