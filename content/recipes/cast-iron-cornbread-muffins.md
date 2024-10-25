@@ -1,7 +1,7 @@
 +++
 date = '2024-10-25T10:39:52-07:00'
 draft = false
-title = 'Cast Iron Cornbread Muffins'
+title = 'Cornbread Muffins (for cast iron pan)'
 tags = ['cast iron', 'savory', 'muffins']
 +++
 

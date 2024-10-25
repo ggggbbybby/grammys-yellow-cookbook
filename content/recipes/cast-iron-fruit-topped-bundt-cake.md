@@ -26,7 +26,7 @@ tags = ['cakes', 'cast iron', 'boozy']
 7. Bake 75-90 minutes or until wood skewer inserted in center comes out clean. (Cover with foil if cake is becoming too brown.)
 8. Cool 20-35 minutes upright with cake in pan. Invert and remove cake from pan, decorate with confectioners sugar and/or fruit glaze. 
 
-_If using this recipe for individual muffin or cokie molds, reduce baking time to 20-25 minutes, or until edges are golden brown._
+_If using this recipe for individual muffin or cookie molds, reduce baking time to 20-25 minutes, or until edges are golden brown._
 
 ### Fruit Glaze
 * 1/2 cup jam
