@@ -2,7 +2,7 @@
 date = '2024-10-25T09:02:52-07:00'
 draft = false
 title = "Joe Cahn's Oreo Bread Pudding Cake"
-tags = ['cake']
+tags = ['bread pudding']
 yield = '10 to 12 servings'
 +++
 
