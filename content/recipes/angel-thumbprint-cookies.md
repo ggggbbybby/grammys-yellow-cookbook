@@ -5,6 +5,7 @@ title = 'Angel Thumbprint Cookies'
 author = 'Ricki K'
 year = 1966
 yield = '2.5 - 3 dozen'
+tags = ['cookies']
 +++
 
 * 1/2 cup salted butter
