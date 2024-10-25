@@ -9,9 +9,9 @@ tags = ['fruit', 'boozy']
 _This dish was named for a lovely young lady who found apricots treated in this refreshing Louisiana way especially appealing._
 
 * 3 tbsp butter
-* 1/4 cup firmly packed light brown sugar
+* ¼ cup firmly packed light brown sugar
 * 1 pound fresh apricots (about 1 dozen) peeled, halved, and pitted
-* 1/4 cup light rum
+* ¼ cup light rum
 * 1 quart vanilla ice cream
 
 1. In an attractive 12 inch skillet over medium heat, melt butter. Add sugar and cook, stirring until bubbly.

@@ -4,26 +4,26 @@ draft = false
 title = 'Fruit Filled Spritz'
 author = 'Mrs Donald Fish'
 tags = ['cookies', 'Pillsbury Recipes']
-yield = '6 1/2 dozen cookies'
+yield = '6½ dozen cookies'
 +++
 
 * 4 cups sifted AP flour
-* 1/2 tsp soda
-* 1/2 tsp salt
+* ½ tsp soda
+* ½ tsp salt
 * 1 cup butter
 * 1 cup sugar
-* 1/2 cup brown sugar, firmly packed
+* ½ cup brown sugar, firmly packed
 * 3 eggs
-* 1/2 tsp vanilla
-* 1/2 tsp almond extract
+* ½ tsp vanilla
+* ½ tsp almond extract
 
 ### Frutti Nut Filling
 * 1 cup water
-* 1/2 cup sugar
-* 1 1/4 cups cut dates
+* ½ cup sugar
+* 1¼ cups cut dates
 * 2 tsp grated orange rind
-* 1/2 cup candied cherries, finely chopped
-* 1/2 cup coconut, flaked or shredded
+* ½ cup candied cherries, finely chopped
+* ½ cup coconut, flaked or shredded
 * 1 cup nuts, chopped
 
 Combine water, sugar, dates and orange rind in a soucepan and cook, stirring constantly until thick. 

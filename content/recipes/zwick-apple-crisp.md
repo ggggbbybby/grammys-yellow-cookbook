@@ -6,9 +6,9 @@ title = 'Quick Apple Crisp'
 
 * 3 cup canned applesauce
 * 6 graham crackers
-* 1/4 cup melted butter
+* ¼ cup melted butter
 * 3 tbsp brown sugar
-* 3/4 tsp cinnamon
+* ¾ tsp cinnamon
 
 1. Turn applesauce into greased shallow casserole or pie tin. 
 2. Crumble graham crackers into melted butter. Stir in brown sugar and cinnamon.

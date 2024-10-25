@@ -7,21 +7,21 @@ yield = '3 dozen'
 tags = ['cookies', 'Pillsbury Recipes']
 +++
 
-* 3/4 cup sifted AP flour
-* 1/2 tsp double-acting baking powder
-* 1/2 tsp salt
+* ¾ cup sifted AP flour
+* ½ tsp double-acting baking powder
+* ½ tsp salt
 * 1 cup dates, cut fine
-* 1/2 cup pecans, chopped
+* ½ cup pecans, chopped
 * 3 eggs
-* 1/2 tsp vanilla
-* 3/4 cup sugar
+* ½ tsp vanilla
+* ¾ cup sugar
 * 20 maraschino cherries
 
 ### Frosting
-* 1/4 cup butter
-* 1 1/4 cup powdered sugar
+* ¼ cup butter
+* 1¼ cup powdered sugar
 * 3 to 4 tsp cream
-* 1/4 tsp vanilla
+* ¼ tsp vanilla
 * 1 cup pecans, chopped
 
 Cream butter. Blend powdered sugar alternately with cream. Add vanilla.
@@ -35,5 +35,5 @@ Cream butter. Blend powdered sugar alternately with cream. Add vanilla.
 6. Bake at 325 for 25 to 35 minutes.
 7. Turn out onto waxed paper sprinkled with powdered sugar. Remove paper, cut into two 10x7" rectangles.
 8. Roll each tightly, beginning with the cherry end. Wrap and cool.
-9. Spread rolls with frosting and roll in pecans. Chill, and cut into 1/2" slices before serving.
+9. Spread rolls with frosting and roll in pecans. Chill, and cut into ½" slices before serving.
 

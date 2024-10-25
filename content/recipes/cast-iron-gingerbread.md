@@ -5,14 +5,14 @@ title = 'Gingerbread (for cast iron pan)'
 tags = ['cast iron', 'cookies']
 +++
 
-* 3 1/2 tbsp butter
-* 1/2 cup honey
-* 1/4 cup + 1 tsp sugar
-* 1/4 tsp ground ginger
+* 3½ tbsp butter
+* ½ cup honey
+* ¼ cup + 1 tsp sugar
+* ¼ tsp ground ginger
 * dash ground allspice
 * dash ground cinnamon
-* 2 1/4 cups AP flour
-* 1/2 tsp baking soda
+* 2¼ cups AP flour
+* ½ tsp baking soda
 * pinch salt
 * 1 egg
 

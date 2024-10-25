@@ -10,7 +10,7 @@ yield = 'about 10 servings'
 * 2 cups milk
 * 2 cups cream of coconut
 * 2 cups sugar
-* 1/2 cup butter, melted
+* ½ cup butter, melted
 * 3 eggs
 * 2 tbsp vanilla
 * 1 cup well drained canned crushed pineapple

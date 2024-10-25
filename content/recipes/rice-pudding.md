@@ -8,8 +8,8 @@ tags = ['pudding']
 * 1 cup cooked rice
 * 2 cups milk
 * 1 or 2 eggs
-* 1/2 cup sugar
-* 1/4 tsp salt
+* ½ cup sugar
+* ¼ tsp salt
 * sprinkle of nutmeg
 
 1. Scald milk with rice. 

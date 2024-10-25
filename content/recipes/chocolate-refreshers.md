@@ -7,21 +7,21 @@ yield = '3 dozen bars'
 author = 'Eugene Walden'
 +++
 
-* 1 1/4 cups sifted AP flour
-* 3/4 tsp soda
-* 1/2 tsp salt
-* 1 1/4 cups cut dates 
-* 3/4 cup brown sugar, firmly packed
-* 1/2 cup water
-* 1/2 cup butter
+* 1¼ cups sifted AP flour
+* ¾ tsp soda
+* ½ tsp salt
+* 1¼ cups cut dates 
+* ¾ cup brown sugar, firmly packed
+* ½ cup water
+* ½ cup butter
 * 1 cup (6 oz) semi-sweet chocolate morsels or butterscotch morsels
 * 2 eggs
-* 1/2 cup orange juice
-* 1/2 cup milk
+* ½ cup orange juice
+* ½ cup milk
 * 1 cup walnuts, chopped
 
 ### Orange Glaze
-* 1 1/2 cups powdered sugar
+* 1½ cups powdered sugar
 * 2 tbsp soft butter
 * 1 to 2 tsp grated orange rind
 * 2 to 3 tbsp cream

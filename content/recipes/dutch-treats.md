@@ -10,14 +10,14 @@ yield = 'about 6 dozen cookies'
 _A delicious candy cookie, rich with chocolate and nuts._
 
 * 1 cup sifted AP flour
-* 1/2 tsp soda
-* 1/2 tsp salt
-* 1/2 cup sugar
-* 1/2 cup butter
-* 1/4 cup maple syrup
+* ½ tsp soda
+* ½ tsp salt
+* ½ cup sugar
+* ½ cup butter
+* ¼ cup maple syrup
 * 1 cup (6 oz) semi-sweet chocolate morsels
 * 1 egg
-* 1 1/2 tsp vanilla
+* 1½ tsp vanilla
 * 1 cup chopped pecans
 
 1. Sift together flour, soda, and salt.

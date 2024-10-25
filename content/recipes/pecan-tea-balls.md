@@ -7,7 +7,7 @@ tags = ['cookies']
 
 * 2 cups flour
 * 4 tbsp sugar
-* 1/2 lb butter
+* ½ lb butter
 * 1 tsp salt
 * 1 tsp vanilla
 * 1 cup chopped pecans

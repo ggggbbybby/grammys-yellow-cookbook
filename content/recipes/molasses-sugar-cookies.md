@@ -5,16 +5,16 @@ title = 'Molasses Sugar Cookies'
 tags = ['cookies']
 +++
 
-* 3/4 cup shortening
+* ¾ cup shortening
 * 1 cup sugar
-* 1/4 cup Brer Rabbit Gold Label Molasses
+* ¼ cup Brer Rabbit Gold Label Molasses
 * 1 egg
 * 2 cups sifted flower
 * 2 tsp baking soda
 * 1 tsp cinnamon
-* 1/2 tsp cloves
-* 1/2 tsp ginger
-* 1/2 tsp salt
+* ½ tsp cloves
+* ½ tsp ginger
+* ½ tsp salt
 
 1. Cream together shortening and sugar.
 2. Add molasses and egg, beat well.

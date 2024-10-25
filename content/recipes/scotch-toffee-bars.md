@@ -6,16 +6,16 @@ author = 'Lois Marvel'
 tags = ['cookies']
 +++
 
-* 1/3 cup melted butter
+* ⅓ cup melted butter
 * 2 cups quaker oats
-* 1/2 cup brown sugar
-* 1/4 cup dark corn syrup
-* 1/2 tsp salt
-* 1 1/2 tsp vanilla
+* ½ cup brown sugar
+* ¼ cup dark corn syrup
+* ½ tsp salt
+* 1½ tsp vanilla
 
 ## Topping
 * 6 oz chocolate bits, melted
-* 1/4 cup chopped nuts
+* ¼ cup chopped nuts
 
 1. Pour butter over oats, mix thoroughly.
 2. Add sugar, syrup, sart and vanilla, blending well.

@@ -9,7 +9,7 @@ tags = ['layers']
 _or That Sinfully Rich Dessert with White Chocolate and Macadamia Nuts_
 
 * 1 cup flour
-* 1/2 cup butter, softened
+* ½ cup butter, softened
 * 1 cup finely chopped nuts
 * 8 oz cream cheese, softened
 * 1 cup sugar

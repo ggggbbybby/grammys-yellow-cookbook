@@ -8,17 +8,17 @@ author = 'Nancy Albright'
 
 ## Cookie Dough
 * 1 cup shortening
-* 1 1/2 cups sugar
+* 1½ cups sugar
 * 2 eggs
-* 2 3/4 cups flour
+* 2¾ cups flour
 * 2 tsp cream of tartar
 * 1 tsp soda
-* 1/4 tsp salt
+* ¼ tsp salt
 
 ### Cinnamon Sugar Topping
 * 1 tsp cinnamon
-* 1/2 tsp cloves
-* 3/4 cup sugar
+* ½ tsp cloves
+* ¾ cup sugar
 
 1. Mix sugar and shortening
 2. Add eggs, then sifted dry ingredients. Mix well.

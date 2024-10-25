@@ -6,9 +6,9 @@ tags = ['cookies', 'cast iron']
 +++
 
 * 1 cup butter at room temperature
-* 3/4 cup confectioners sugar
+* ¾ cup confectioners sugar
 * 2 cups AP flour
-* 1/2 tsp vanilla
+* ½ tsp vanilla
 
 1. Preheat oven to 350.
 2. Cream butter, blend in sugar gradually.

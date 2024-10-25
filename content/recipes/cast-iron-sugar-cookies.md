@@ -7,8 +7,8 @@ yield = '2 pans of molded cookies'
 +++
 
 * 1 cup butter, softened
-* 3/4 cup sugar
-* 1/2 tsp salt
+* ¾ cup sugar
+* ½ tsp salt
 * 2 eggs
 * 2 tsp vanilla
 * 3 cups AP flour

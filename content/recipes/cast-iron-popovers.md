@@ -6,7 +6,7 @@ tags = ['cast iron', 'savory']
 +++
 
 * 1 cup sifted AP flour
-* 1/2 tsp salt
+* ½ tsp salt
 * 2 eggs
 * 1 cup milk
 * 1 tbsp vegetable oil

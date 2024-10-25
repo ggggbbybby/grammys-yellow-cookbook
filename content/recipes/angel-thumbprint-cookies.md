@@ -8,13 +8,13 @@ yield = '2.5 - 3 dozen'
 tags = ['cookies']
 +++
 
-* 1/2 cup salted butter
-* 1/2 cup shortening
-* 2/3 cup brown sugar (packed)
+* ½ cup salted butter
+* ½ cup shortening
+* ⅔ cup brown sugar (packed)
 * 2 egg yolks
-* 1/2 tsp salt
+* ½ tsp salt
 * 1 tsp vanilla
-* 1/2 tsp almond extract
+* ½ tsp almond extract
 * 2 cups sifted flour
 * 2 egg whites (unbeaten)
 * 1 cup nuts, finely chopped

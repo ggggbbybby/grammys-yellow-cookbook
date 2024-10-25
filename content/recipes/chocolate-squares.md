@@ -6,16 +6,16 @@ author = 'Lois Marvel'
 tags = ['cookies']
 +++
 
-* 3/4 cup flour
-* 1/2 tsp soda
-* 1/2 tsp salt
-* 1/2 cup brown sugar
-* 1/2 cup granulated sugar
-* 1/2 cup shortening
+* ¾ cup flour
+* ½ tsp soda
+* ½ tsp salt
+* ½ cup brown sugar
+* ½ cup granulated sugar
+* ½ cup shortening
 * 1 egg
-* 1/2 tsp vanilla
-* 1 1/2 cup Quaker Oats
-* 1/4 cup chopped pecans
+* ½ tsp vanilla
+* 1½ cup Quaker Oats
+* ¼ cup chopped pecans
 * milk chocolate, cut into squares
 * pecan halves
 

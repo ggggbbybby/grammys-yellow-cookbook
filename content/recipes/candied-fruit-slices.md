@@ -11,7 +11,7 @@ yield = '7 dozen'
 * 1 cup sifted powdered sugar
 * 1 egg
 * 1 tsp vanilla
-* 2 1/4 cups sifted AP flour
+* 2¼ cups sifted AP flour
 * 1 cup pecan halves
 * 2 cups soft candied cherries, cut in halves
 

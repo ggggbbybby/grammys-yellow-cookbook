@@ -8,8 +8,8 @@ yield = '2 to 3 dozen cookies'
 +++
 
 ### Nut Filling
-* 1 1/4 cups walnuts, ground
-* 1/3 cup sugar
+* 1¼ cups walnuts, ground
+* ⅓ cup sugar
 * 1/16 tsp salt
 * 1 tbsp melted butter
 * 2 tbsp water
@@ -17,10 +17,10 @@ yield = '2 to 3 dozen cookies'
 
 Mix well.
 
-* 1 1/3 cups AP flour
-* 1 1/2 tsp double-acting baking powder
-* 1/4 cup butter
-* 1/4 cup sugar
+* 1⅓ cups AP flour
+* 1½ tsp double-acting baking powder
+* ¼ cup butter
+* ¼ cup sugar
 * 1 tsp vanilla
 * 1 tsp almond extract
 * 1/8 tsp salt

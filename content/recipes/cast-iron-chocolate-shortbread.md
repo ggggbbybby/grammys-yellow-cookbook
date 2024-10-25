@@ -9,10 +9,10 @@ tags = ['cast iron', 'cookies']
 * 1 cup 10X (powdered) sugar
 * 6 tbsp cocoa
 * 1 tsp vanilla
-* 1 1/2 cup folur
+* 1½ cup flour
 * 2 tbsp cornstarch
-* 1/4 tsp salt
-* 2/3 cup finely chopped walnuts (optional)
+* ¼ tsp salt
+* ⅔ cup finely chopped walnuts (optional)
 
 1. Grease and flour cast iron mold.
 2. Cream butter. Add sugar and cocoa and cream until light.

@@ -7,10 +7,10 @@ yield = '2 pans of molded cookies'
 +++
 
 * 14 tbsp (7 oz) unsalted butter
-* 1/2 cup confectioner's sugar
+* ½ cup confectioner's sugar
 * 1 tsp vanilla extract
 * 2 tsp lemon juice
-* 2 1/2 cups flour
+* 2½ cups flour
 
 1. Preheat oven to 450.
 2. Beat butter until light, then beat in sugar.

@@ -16,7 +16,7 @@ tags = ['cookies', 'bar cookies']
 * 1 tsp vanilla
 * 8 oz sour cream
 * 5 cups flour
-* 1/2 cup ground walnuts
+* ½ cup ground walnuts
 
 1. Combine chopped walnuts, dates, water and 2 cups sugar in saucepan. Bring to a boil and boil until liquid is absorbed. Set aside to cool.
 2. Cream together shortening and 1 cup sugar. Add egg yolks one at a time, beating well after each addition.

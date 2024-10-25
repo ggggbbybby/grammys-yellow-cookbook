@@ -23,18 +23,18 @@ tags = ['cookies']
 
 ## Brazilian Creams
 
-* 1/2 cup butter or margarine
+* ½ cup butter or margarine
 * 1 cup brown sugar
 * 1 egg
-* 1/2 tsp vanilla
+* ½ tsp vanilla
 * 2 cups flour
-* 3/4 tsp soda
-* 3/4 tsp baking powder
-* 1/4 tsp salt
-* 1/2 tsp cinnamon
-* 1/4 tsp nutmeg
-* 1/3 cup dairy sour cream
-* 1/2 cup chopped Brazil nuts
+* ¾ tsp soda
+* ¾ tsp baking powder
+* ¼ tsp salt
+* ½ tsp cinnamon
+* ¼ tsp nutmeg
+* ⅓ cup dairy sour cream
+* ½ cup chopped Brazil nuts
 * 1 recipe Brown Butter Icing
 * 1 recipe Brazil Nut Petals
 

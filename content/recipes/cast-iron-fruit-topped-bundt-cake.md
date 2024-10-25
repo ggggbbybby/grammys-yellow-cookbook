@@ -5,17 +5,17 @@ title = 'Fruit Topped Bundt Cake (for cast iron pan)'
 tags = ['cakes', 'cast iron', 'boozy']
 +++
 
-* 1 1/2 cups butter, softened
+* 1½ cups butter, softened
 * 1 cup sugar
 * 5 eggs
-* 2 1/4 cups flour
-* 1/2 cup corn meal
+* 2¼ cups flour
+* ½ cup corn meal
 * 1 tsp baking powder
-* rind of 1/2 lemon, grated
-* rind of 1/2 orange, grated
-* 1 1/2 tbsp lemon juice
+* rind of ½ lemon, grated
+* rind of ½ orange, grated
+* 1½ tbsp lemon juice
 * 1 tbsp orange juice
-* 1/4 cup rum
+* ¼ cup rum
 
 1. Grease and flour bundt pan. Preheat oven to 325.
 2. In large bowl, cream butter and sugar until pale and fluffy.
@@ -29,9 +29,9 @@ tags = ['cakes', 'cast iron', 'boozy']
 _If using this recipe for individual muffin or cookie molds, reduce baking time to 20-25 minutes, or until edges are golden brown._
 
 ### Fruit Glaze
-* 1/2 cup jam
-* 2/3 cup water OR 1/3 cup water + 1/3 cup triple sec or brandy
-* 1/2 cup sugar
+* ½ cup jam
+* ⅔ cup water OR ⅓ cup water + 1/3 cup triple sec or brandy
+* ½ cup sugar
 
 1. Blend ingredients in a saucepan, bring to boil. After color is well distributed, strain out fruit pieces.
 2. Continue to boil, stirring occasionally. Watch closely as mixture reduces to syrup consistency.

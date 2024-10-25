@@ -7,16 +7,16 @@ yield = '4 dozen cookies'
 author = 'Jerry Barachek'
 +++
 
-* 1/2 cup butter
+* ½ cup butter
 * 2 eggs, slightly beaten
 * 1 cup sugar
 * 8 oz dates, cut
-* 1/3 cup water
+* ⅓ cup water
 * 1 cup AP flour
-* 1/2 tsp salt
+* ½ tsp salt
 * 1 tsp vanilla
 * 1 cup pecans
-* 2 1/2 cups Rice Krispies
+* 2½ cups Rice Krispies
 * red or green colored sugar
 
 1. Melt butter in a medium size skillet over medium heat. Add eggs and sugar, mix thoroughly.
@@ -30,4 +30,4 @@ author = 'Jerry Barachek'
 Press mixture into ungreased 9x9 pan. Decorate with pecans.
 
 #### For Refrigerator Cookies
-Cool to lukewarm. Shape into rolls 2" in diameter. Roll in colored sugar and wrap. Chill, cut into 1/2" slices.
+Cool to lukewarm. Shape into rolls 2" in diameter. Roll in colored sugar and wrap. Chill, cut into ½" slices.

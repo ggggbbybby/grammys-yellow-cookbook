@@ -9,11 +9,11 @@ yield = 'about 54'
 
 * 6oz semi-sweet chocolate chips
 * 3 tbsp corn syrup
-* 1/2 cup bourbon
+* ½ cup bourbon
 * 8.5 oz wafers, crushed
 * 1 cup finely chopped nuts
-* 1/2 cup confectionary sugar
-* 1/4 cup finely chopped candied red cherries
+* ½ cup confectionary sugar
+* ¼ cup finely chopped candied red cherries
 * granulated sugar
 
 

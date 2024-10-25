@@ -9,17 +9,17 @@ yield = '5 to 6 dozen cookies'
 
 _Chocolate morsels and bits of maraschino cherries give these cookies sparkle and flavor._
 
-* 2 1/2 cups sifted all purpose flour
+* 2½ cups sifted all purpose flour
 * 1 tsp soda
-* 1/2 tsp salt
+* ½ tsp salt
 * 1 cup butter
 * 1 cup firmly packed brown sugar
-* 1/2 cup sugar
+* ½ cup sugar
 * 1 egg
-* 1 1/2 tsp vanilla
+* 1½ tsp vanilla
 * 1 cup (6 oz) semi-sweet chocolate morsels
-* 1/2 cup nuts
-* 1/4 cup chopped maraschino cherries
+* ½ cup nuts
+* ¼ cup chopped maraschino cherries
 
 1. Sift together flower, soda, and salt.
 2. Cream butter, gradually add sugars, creaming well.

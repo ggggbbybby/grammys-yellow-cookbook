@@ -11,15 +11,15 @@ yield = '3 dozen bars'
 * 1 cup brown sugar, firmly packed
 * 1 tsp almond extract
 * 1 to 2 tbsp instant coffee
-* 1/2 tsp double-acting baking powder
-* 1/4 tsp salt
-* 2 to 2 1/4 cups sifted AP flour
+* ½ tsp double-acting baking powder
+* ¼ tsp salt
+* 2 to 2¼ cups sifted AP flour
 * 1 cup (6 oz) semi-sweet chocolate morsels
-* 1/2 cup blanched almonds, chopped
+* ½ cup blanched almonds, chopped
 
 ### Almond Glaze
 * 1 tbsp soft butter
-* 3/4 cup sifted powdered sugar
+* ¾ cup sifted powdered sugar
 * 1/8 tsp almond extract
 * 1 to 2 tbsp milk
 

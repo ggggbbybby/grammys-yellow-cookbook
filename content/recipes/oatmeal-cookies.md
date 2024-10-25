@@ -5,14 +5,14 @@ title = 'Oatmeal Cookies'
 tags = ['cookies', 'confusing']
 +++
 
-* 3/4 cup shortening
+* ¾ cup shortening
 * 1 cup brown sugar
-* 1/2 cup white sugar
+* ½ cup white sugar
 * 1 egg
-* 1/4 cup water
+* ¼ cup water
 * 1 tsp vanilla
 * 1 cup flour
-* 1/2 tsp soda
+* ½ tsp soda
 * 1 tsp salt
 * 3 cups oatmeal
 

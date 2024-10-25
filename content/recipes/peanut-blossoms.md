@@ -7,13 +7,13 @@ yield = '3 dozen'
 tags = ['cookies']
 +++
 
-* 1 3/4 cups flour
+* 1¾ cups flour
 * 1 tsp soda
-* 1/2 tsp salt
-* 1/2 cup shortening
-* 1/2 cup peanut butter
-* 1/2 cup brown sugar
-* 1/2 cup granulated sugar
+* ½ tsp salt
+* ½ cup shortening
+* ½ cup peanut butter
+* ½ cup brown sugar
+* ½ cup granulated sugar
 * 1 egg
 * 2 tbsp milk
 * 1 tsp vanilla

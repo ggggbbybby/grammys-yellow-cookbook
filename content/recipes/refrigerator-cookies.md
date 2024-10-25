@@ -5,13 +5,13 @@ title = 'Refrigerator Cookies'
 tags = ['cookies']
 +++
 
-* 1/2 cup butter
-* 2/3 cup brown sugar
-* 1/3 cup white sugar
+* ½ cup butter
+* ⅔ cup brown sugar
+* ⅓ cup white sugar
 * 1 egg, beaten
-* 1 1/2 cup flour
-* 1/3 tsp soda
-* 1/4 tsp salt
+* 1½ cup flour
+* ⅓ tsp soda
+* ¼ tsp salt
 * 1 tsp vanilla
 
 1. Mix.

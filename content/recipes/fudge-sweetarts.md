@@ -8,15 +8,15 @@ tags = ['cookies', 'Pillsbury Recipes']
 +++
 
 * 1 cup sifted AP flour
-* 1/4 tsp double-acting baking powder
-* 1/4 tsp salt
-* 1/3 cup butter
+* ¼ tsp double-acting baking powder
+* ¼ tsp salt
+* ⅓ cup butter
 * 1 egg, beaten
 * pecan halves
 
 ### Chocolate Filling
 * 1 cup (6 oz) semi-sweet chocolate morsels
-* 1/3 cup sugar
+* ⅓ cup sugar
 * 1 tbsp milk
 * 1 tbsp butter
 * 1 tsp vanilla

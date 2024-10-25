@@ -7,7 +7,7 @@ tags = ['fruit']
 +++
 
 * 6 fresh Cornice or Anjou pears
-* 4 1/4 cups sugar
+* 4¼ cups sugar
 * 2 cups water
 * 1 stick cinnamon
 * 3 whole cloves

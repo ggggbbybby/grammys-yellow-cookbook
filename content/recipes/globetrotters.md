@@ -8,6 +8,6 @@ yield = 'enough for 4 people'
 +++
 
 * 1 quart milk (boiling)
-* 1/2 pint blackberry brandy
+* ½ pint blackberry brandy
 
 Drink hot milk first, then brandy!

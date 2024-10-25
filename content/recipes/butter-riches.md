@@ -9,12 +9,12 @@ tags = ['cookies', 'Pillsbury Recipes']
 
 _Perfect for teas ... delicate caramel cookies with browned butter frosting._
 
-* 3/4 cup butter
-* 1/2 cup brown sugar, firmly packed
+* ¾ cup butter
+* ½ cup brown sugar, firmly packed
 * 1 tbsp granulated sugar
 * 1 egg yolk
 * 1 tsp vanilla
-* 1 3/4 to 2 cups AP flour
+* 1¾ to 2 cups AP flour
 * Almond Slivers
 * Browned Butter Frosting
 
@@ -26,8 +26,8 @@ _Perfect for teas ... delicate caramel cookies with browned butter frosting._
 6. Bake at 350 for 7-9 minutes until light golden brown. Cool and frost. Garnish with almond slivers.
 
 ### Browned Butter Frosting
-* 1/4 cup butter
-* 2 1/2 cups sifted powdered sugar
+* ¼ cup butter
+* 2½ cups sifted powdered sugar
 * 1 tsp vanilla
 * 3-4 tbsp cream
 

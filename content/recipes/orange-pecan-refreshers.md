@@ -4,7 +4,7 @@ draft = false
 title = 'Orange Pecan Refreshers'
 author = 'Ann Pillsbury'
 tags = ['cookies', 'Pillsbury Recipes']
-yield = '5 1/2 dozen'
+yield = '5½ dozen'
 +++
 
 * 1 cup butter
@@ -14,9 +14,9 @@ yield = '5 1/2 dozen'
 * 1 tbsp lemon juice
 * 1 tbsp orange juice
 * 2 eggs, separated
-* 1/2 tsp salt
+* ½ tsp salt
 * 1 tsp baking powder
-* 3 to 3 1/2 cups sifted AP flour
+* 3 to 3½ cups sifted AP flour
 * 2 cups chopped pecans
 
 1. Melt butter. Stir in sugar, citrus, salt, egg yolks, salt, and baking powder.

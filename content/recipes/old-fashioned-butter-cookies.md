@@ -9,12 +9,12 @@ yield = '6 to 7 dozen'
 
 * 3 cups sifted AP flour
 * 1 tsp baking powder
-* 1/2 tsp salt
+* ½ tsp salt
 * 1 cup butter
-* 3/4 cup sugar
+* ¾ cup sugar
 * 1 egg
 * 2 tbsp cream or milk
-* 1 1/2 tsp vanilla
+* 1½ tsp vanilla
 
 1. Sift together flour, baking powder, and salt.
 2. Cream butter and sugar. 

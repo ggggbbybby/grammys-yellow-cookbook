@@ -8,16 +8,16 @@ tags = ['cookies', 'Pillsbury Recipes']
 
 _Crisp and thin, flavored with molasses and a blend of spices that's so typically Swedish. For holiday cookies, decorate with icing._
 
-* 3 1/2 cups sifted AP flour
-* 1 1/2 tsp ginger
-* 1 1/2 tsp cinnamon
+* 3½ cups sifted AP flour
+* 1½ tsp ginger
+* 1½ tsp cinnamon
 * 1 tsp soda
 * 1 tsp cloves
-* 1/4 tsp ground cardamom
-* 1/2 cup butter
-* 3/4 cup sugar
+* ¼ tsp ground cardamom
+* ½ cup butter
+* ¾ cup sugar
 * 1 egg
-* 3/4 cup light molasses
+* ¾ cup light molasses
 * 2 tsp grated orange rind
 * almonds, halved
 

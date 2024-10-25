@@ -4,22 +4,22 @@ draft = false
 title = 'Butterscotch Coconut Drops'
 author = 'Mary Ellen Cravatta'
 tags = ['cookies', 'Pillsbury Recipes']
-yield = '4 1/2 dozen cookies'
+yield = '4½ dozen cookies'
 +++
 
 _Butterscotch morsels add interest to coconut-coated cookies._
 
 * 2 cups AP flour
-* 1/2 tsp soda
-* 1/2 tsp salt
-* 1/2 cup butter
-* 1/2 cup brown sugar, firmly packed 
-* 1/2 cup sugar
+* ½ tsp soda
+* ½ tsp salt
+* ½ cup butter
+* ½ cup brown sugar, firmly packed 
+* ½ cup sugar
 * 2 eggs
 * 1 tsp vanilla
 * 1 cup (6 oz) butterscotch morsels
-* 1/2 cup pecans, chopped
-* 1 1/2 cups flaked coconut
+* ½ cup pecans, chopped
+* 1½ cups flaked coconut
 * pecan halves or maraschino cherries, optional
 
 1. Sift together flour, soda, and salt.

@@ -6,14 +6,14 @@ tags = ['cast iron', 'muffins']
 yield = '18 muffins'
 +++
 
-* 1 1/2 cups sifted AP flour
+* 1½ cups sifted AP flour
 * 2 tsp baking powder
 * pinch of salt
 * 1 tbsp cinnamon
-* 1/2 cup soft butter
+* ½ cup soft butter
 * 1 cup sugar
 * 2 eggs
-* 1/2 cup milk
+* ½ cup milk
 
 1. Preheat oven to 250.
 2. Sift flour again with baking powder, salt, and cinnamon.
@@ -24,6 +24,6 @@ yield = '18 muffins'
 7. Frost with Cinnamon Frosting.
 
 ### Cinnamon Frosting
-Combine 1 cup hevay cream with 1/4 cup sugar. 
+Combine 1 cup hevay cream with ¼ cup sugar. 
 Chill in refrigerator at least 2 hours, then beat with rotary beater until stiff. 
-Flavor with 1/2 tsp cinnamon.
+Flavor with ½ tsp cinnamon.

@@ -6,7 +6,7 @@ tags = ['cast iron', 'savory', 'muffins']
 +++
 
 * 1 cup AP flour
-* 1/4 cup sugar
+* ¼ cup sugar
 * 3 tsp baking powder
 * 1 cup yellow corn meal
 * 1 egg, well-beaten

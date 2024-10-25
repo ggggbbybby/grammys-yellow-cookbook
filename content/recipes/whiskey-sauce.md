@@ -6,12 +6,12 @@ yield = 'about 6 servings'
 tags = ['sauce', 'boozy']
 +++
 
-* 3/4 cup sugar
+* ¾ cup sugar
 * 1 cup whipping cream
 * 1 cup milk
-* 2 1/2 tbsp cornstarch
+* 2½ tbsp cornstarch
 * 2 tbsp borubon whiskey
 
-1. In a saucepan, combine sugar, cream, and 1/2 cup milk, bleanding well. Heat to simmer, stirring to dissolve sugar.
-2. Mix remaining 1/2 cup milk with corstarch until cornstarch is dissolved. Slowly add to simmering cream mixture, whisking constantly.
+1. In a saucepan, combine sugar, cream, and ½ cup milk, bleanding well. Heat to simmer, stirring to dissolve sugar.
+2. Mix remaining ½ cup milk with corstarch until cornstarch is dissolved. Slowly add to simmering cream mixture, whisking constantly.
 3. Continue whisking while mixture cooks slowly, 3 to 5 minutes. Remove from heat and stir in whiskey.

@@ -8,20 +8,20 @@ yield = '5 dozen'
 +++
 
 * 2 cups sifted AP flour
-* 1/2 tsp soda
-* 1/2 tsp salt
-* 1/4 tsp cinnamon
-* 1/4 tsp cloves
-* 1/2 cup butter
+* ½ tsp soda
+* ½ tsp salt
+* ¼ tsp cinnamon
+* ¼ tsp cloves
+* ½ cup butter
 * 1 cup brown sugar, firmly packed
 * 1 egg
 * 1 tsp vanilla
 
 ### Date Filling
-* 1 1/4 cups cut dates (8 oz package)
-* 1/2 cup sugar
-* 1/2 cup water
-* 1/2 cup nuts, chopped
+* 1¼ cups cut dates (8 oz package)
+* ½ cup sugar
+* ½ cup water
+* ½ cup nuts, chopped
 
 Combine dates, sugar and water in a sucepan. Cook over low heat, stirring constantly, until thick. 
 Cool and add nuts.
@@ -38,5 +38,5 @@ Melt chocolate over boiling water. Remove from heat and stir in coconut.
 4. Blend in dry ingredients.
 5. Roll out dough on a floured surface to form two 10x8" rectangles. Spread with filling and roll up along the long side. 
 6. Wrap in waxed paper and chill 2 hours. 
-7. Cut into 1/4" slices, place on lightly greased cookie sheets.
+7. Cut into ¼" slices, place on lightly greased cookie sheets.
 8. Bake at 400 for 8-10 minutes.

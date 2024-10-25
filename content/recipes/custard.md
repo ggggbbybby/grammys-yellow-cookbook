@@ -7,8 +7,8 @@ tags = ['pudding']
 
 * 3 cups scalded milk
 * 3 eggs or 6 egg yolks
-* 1/2 cup sugar
-* 1/4 tsp salt
+* ½ cup sugar
+* ¼ tsp salt
 * nutmeg
 
 1. Beat eggs sslightly, add sugar and salt and slowly pour on scalded milk.

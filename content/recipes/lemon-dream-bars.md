@@ -4,12 +4,12 @@ draft = false
 title = 'Lemon Dream Bars'
 tags = ['cookies', 'Pillsbury Recipes']
 author = 'Margaret Belitz'
-yield = '1 1/2 dozen bars'
+yield = '1½ dozen bars'
 +++
 
 ### Crust
 
-* 1/3 cup butter
+* ⅓ cup butter
 * 1 cup AP flour
 * 2 tbsp sugar
 
@@ -20,12 +20,12 @@ yield = '1 1/2 dozen bars'
 ### Filling
 
 * 2 eggs, beaten
-* 1/2 cup firmly packed brown sugar
-* 3/4 cup coconut, chopped
-* 1/2 cup nuts, chopped
-* 1/4 tsp salt
+* ½ cup firmly packed brown sugar
+* ¾ cup coconut, chopped
+* ½ cup nuts, chopped
+* ¼ tsp salt
 * 1/8 tsp double-acting baking powder
-* 1/2 tsp vanilla
+* ½ tsp vanilla
 
 1. Mix well. 
 2. Spread on partially-baked dough.

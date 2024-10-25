@@ -5,12 +5,12 @@ title = 'Divinity Fudge'
 tags = ['candy']
 +++
 
-* 1 1/2 cups sugar
+* 1½ cups sugar
 * 3/8 cup or 6 tbsp water
-* 1/2 tsp vanilla
-* 1/4 cup corn syrup
-* 1/2 cup chopped nuts
-* 1/4 tsp salt
+* ½ tsp vanilla
+* ¼ cup corn syrup
+* ½ cup chopped nuts
+* ¼ tsp salt
 * 1 egg white
 
 1. Cook sugar, syrup, and water over low heat until sugar is dissolved, stirring constantly.

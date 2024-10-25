@@ -9,15 +9,15 @@ yield = '3 dozen'
 
 _Brown sugar cookies made to resemble pralines._
 
-* 1 2/3 cups AP flour
-* 1/2 tsp soda
-* 1/4 tsp salt
-* 1/2 cup butter
-* 2/3 cup brown sugar, firmly packed
+* 1⅔ cups AP flour
+* ½ tsp soda
+* ¼ tsp salt
+* ½ cup butter
+* ⅔ cup brown sugar, firmly packed
 * 1 egg
-* 1/2 tsp vanilla
-* 1/2 tsp maple flavoring
-* 3/4 cup pecan halves
+* ½ tsp vanilla
+* ½ tsp maple flavoring
+* ¾ cup pecan halves
 
 1. Sift together flour, soda, and salt.
 2. Cream butter and sugar. Beat in egg, vanilla, and maple flavoring.
@@ -29,7 +29,7 @@ _Brown sugar cookies made to resemble pralines._
 8. Drizzle a scant teaspoon of Praline Frosting over each cookie.
 
 ### Praline Frosting
-* 3/4 cup brown sugar, firmly packed
+* ¾ cup brown sugar, firmly packed
 * 1 tbsp corn syrup
 * 2 tbsp water
 * 1 cup sifted powdered sugar

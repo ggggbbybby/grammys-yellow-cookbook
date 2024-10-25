@@ -7,10 +7,10 @@ yield = '10 to 12 servings'
 +++
 
 * 2 pounds oreo cookies
-* 10 cups stale french bread, cut into 1" pieces (about 1/2 loaf)
+* 10 cups stale french bread, cut into 1" pieces (about ½ loaf)
 * 2 cups whipping cream
 * 2 cups sugar
-* 1/2 pound butter, melted
+* ½ pound butter, melted
 * 5 eggs
 * 2 tbsp vanilla
 * 1 cup chopped pecans (optional)
