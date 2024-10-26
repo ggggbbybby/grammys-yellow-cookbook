@@ -6,16 +6,16 @@ tags = ['Pillsbury Recipes', 'cookies']
 yield = '4 to 5 dozen cookies'
 +++
 
-* 1/2 cup corn syrup (light or dark)
-* 1/2 cup butter
-* 2/3 cup firmly packed brown sugar
+* ½ cup corn syrup (light or dark)
+* ½ cup butter
+* ⅔ cup firmly packed brown sugar
 * 1 cup AP flour
 * 1 cup nuts, finely chopped
 
 1. Combine corn syrup, butter, and brown sugar in saucepan. Bring to boiling point, remove from heat immediately.
 2. Combine flour and nuts. Blend into mixture.
 3. Brop dough onto greased cookie sheets. Place 4 inches apart to allow room for spreading.
-4. bake at 325 for 8 to 10 minutes. Cool 1 minute. Remove from cookie sheet and shape as directed below.
+4. bake at 325°for 8 to 10 minutes. Cool 1 minute. Remove from cookie sheet and shape as directed below.
 
 #### Wafers
 Drop dough by teaspoonfuls. Cool flat on wire racks or on rolling pin to get curved shape.

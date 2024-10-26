@@ -14,11 +14,11 @@ author = 'Suzanne Kelso'
 * 1 cup butter
 * 3 eggs
 * 1 cup maple syrup
-* 1/4 tsp maple flavoring
-* 1/4 cup boiling water
+* ¼ tsp maple flavoring
+* ¼ cup boiling water
 * 1 cup raisins
 * 1 cup pecans, chopped
-* 3/4 cup coconut, if desired
+* ¾ cup coconut, if desired
 * pecan halves
 
 1. Sift together flour, baking powder, soda, and salt.
@@ -27,7 +27,7 @@ author = 'Suzanne Kelso'
 4. Add boiling water, mix well.
 5. Stir in raisins, pecans, and coconut if desired. Chill at least 1 hour.
 6. Drop by rounded teaspoonfuls onto ungreased cookie sheets.
-7. Bake at 350 for 13 to 16 minutes. Cool. Frost and decorate with a pecan half.
+7. Bake at 350°for 13 to 16 minutes. Cool. Frost and decorate with a pecan half.
 
 #### Maple Frosting
-Melt 1/4 cup butter. Add 2 tbsp cream, 1 tsp vanilla, and 1 tbsp maple syrup. Blend in 2 cups of powdered sugar. Beat until of spreading consistency.
+Melt ¼ cup butter. Add 2 tbsp cream, 1 tsp vanilla, and 1 tbsp maple syrup. Blend in 2 cups of powdered sugar. Beat until of spreading consistency.
