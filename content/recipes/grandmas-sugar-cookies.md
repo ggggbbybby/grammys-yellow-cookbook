@@ -36,7 +36,7 @@ Color half of dough red or green. Roll out plain dough. Cut into rounds with 2 o
 Roll out pink dough to ⅛ inch thickness. Cut into 2 inch squares. Cut ¾ inch diagonally from each corner to center. Fold alternate points of square to center, forming a pinwheel shape. Place candied cherry in center. Bake.
 
 #### Filled Cookies
-Make filling by combining ½ cup light cream, ½ cup sugar, 1/2 cup nuts, and 1/2 cup ground raisins in a saucepan. Cook, stirring constantly untill thickened. Add ¼ tsp vanilla, cool.
+Make filling by combining ½ cup light cream, ½ cup sugar, ½ cup nuts, and ½ cup ground raisins in a saucepan. Cook, stirring constantly untill thickened. Add ¼ tsp vanilla, cool.
 
 _Christmas Bells_
 
