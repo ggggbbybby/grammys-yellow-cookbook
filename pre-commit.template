@@ -1,0 +1,33 @@
+#!/bin/sh
+#
+# copy this file into .git/hooks/pre-commit to automatically format fractions and temperatures
+
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+	against=HEAD
+else
+	# Initial commit: diff against an empty tree object
+	against=$(git hash-object -t tree /dev/null)
+fi
+
+# Redirect output to stderr.
+exec 1>&2
+
+recipe_dir=content/recipes
+for entry in "$recipe_dir"/*
+do
+  if [ -f $entry ]; then
+	   echo "running fraction replacements on $entry"
+		 sed -i -E '
+		 s/([[:digit:]]) (1\/2)/\1½/g ; s/1\/2/½/g 
+		 s/([[:digit:]]) (1\/4)/\1¼/g ; s/1\/4/¼/g
+		 s/([[:digit:]]) (3\/4)/\1¾/g ; s/3\/4/¾/g
+		 s/([[:digit:]]) (1\/3)/\1⅓/g ; s/1\/3/⅓/g
+		 s/([[:digit:]]) (2\/3)/\1⅔/g ; s/2\/3/⅔/g
+		 s/([[:digit:]]) (1\/8)/\1⅛/g ; s/1\/8/⅛/g
+		 s/([[:digit:]]) (1\/16)/\1¹⁄₁₆/g ; s/1\/16/¹⁄₁₆/g
+		 s/(at [[:digit:]]+) /\1°/
+		 ' \
+		 $entry
+	fi
+done
