@@ -24,6 +24,6 @@ tags = ['cookies']
 2. Cream shortening, peanut butter, brown sugar & granulated sugar.
 3. Add egg, milk, and vanilla. Beat well.
 4. Shape into balls and roll in sugar.
-5. Place on ungreased sheet and bake at 375 for 8 minutes.
+5. Place on ungreased sheet and bake at 375° for 8 minutes.
 6. Remove, place candy kiss in center, pressing until cookie cracks.
 7. Bake another 2-5 minutes longer.

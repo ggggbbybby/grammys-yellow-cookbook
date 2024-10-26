@@ -29,4 +29,4 @@ _Butterscotch morsels add interest to coconut-coated cookies._
 5. Stir in butterscotch morsels and pecans. Chill.
 6. Drop dough by rounded teaspoonfuls into coconut, roll to coat.
 7. Form into balls, place on greased cookie sheets. If desired, top with pecan halves or maraschino cherries.
-8. Bake at 375 for 10-12 minutes until golden brown.
+8. Bake at 375° for 10-12 minutes until golden brown.

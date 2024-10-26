@@ -21,4 +21,4 @@ tags = ['cast iron', 'cookies']
 3. Knead until dough is smooth. Cover and let sit overnight at room temperature.
 4. Preheat oven to 375.
 5. Grease pan and firm dough into molds until they are just full.
-6. Bake at 375 for 12-15 minutes. Allow to cool 10 minutes before removing from mold.
+6. Bake at 375° for 12-15 minutes. Allow to cool 10 minutes before removing from mold.

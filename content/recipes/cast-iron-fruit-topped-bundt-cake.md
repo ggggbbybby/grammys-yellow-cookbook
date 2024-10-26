@@ -30,7 +30,7 @@ _If using this recipe for individual muffin or cookie molds, reduce baking time 
 
 ### Fruit Glaze
 * ½ cup jam
-* ⅔ cup water OR ⅓ cup water + 1/3 cup triple sec or brandy
+* ⅔ cup water OR ⅓ cup water + ⅓ cup triple sec or brandy
 * ½ cup sugar
 
 1. Blend ingredients in a saucepan, bring to boil. After color is well distributed, strain out fruit pieces.

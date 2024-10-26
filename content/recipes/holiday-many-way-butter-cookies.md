@@ -18,13 +18,13 @@ author = 'Ann Pillsbury'
 3. Blend in egg and vanilla. Beat well.
 4. Add the dry ingredients gradually, mix well.
 5. Divide into five parts, shape as directed below.
-6. Bake at 375 for 7-10 minutes until delicately browned.
+6. Bake at 375° for 7-10 minutes until delicately browned.
 
 ### Drop Butter Cookies
 
 Drop one part of dough by teaspoonfuls onto lightly buttered sheet. 
 Flatten slightly with glass that has been greased then dipped in sugar.
-If desired, add ¼ cup semi-sweet chocolate morsels and 1/4 cup chopped pecans to the dough.
+If desired, add ¼ cup semi-sweet chocolate morsels and ¼ cup chopped pecans to the dough.
 
 ### Spritz Cookies
 Press one part of dough in small amounts though cookie press onto ungreased cookie sheet, using any plate to make desired shape.
@@ -38,12 +38,12 @@ Place on ungreased cookie sheet.
 Or, if desired, roll warm baked cookies in 1 tbsp crushed peppermint candy and 1 tbsp powdered sugar.
 
 ### Rolled Butter Cookies
-Chill one part of dough, roll out on floured surface to 1/8" thickness. 
+Chill one part of dough, roll out on floured surface to ⅛" thickness. 
 Cut with floured cutter or pastry wheel into variety of shapes.
 Place on ungreased cookie sheets.
 
 ### Coconut Refrigerator Cookies
 Add ¼ cup grated or finely chopped coconut to one part of dough. Form into a roll.
 Coat roll with ¼ cup grated or finely chopped coconut. Wrap in waxed paper and chill. 
-Cut into 1/8" slices. Place on ungreased cookie sheet.
+Cut into ⅛" slices. Place on ungreased cookie sheet.
 If desired, brush unbaked cookies with cream and sprinkle with coconut. Bake, then glaze warm cookies with hot light corn syrup.

@@ -26,6 +26,6 @@ _Crisp and thin, flavored with molasses and a blend of spices that's so typicall
 3. Blend in egg, molasses, and orange rind.
 4. Stir in the dry ingredients gradually. Blend well.
 5. Cover and chill overnight or up to 1 week.
-6. Roll out dough one third at a time, on a well floured surface, to 1/8" thickness. Cut into desired shapes with cutters or pastry wheel.
+6. Roll out dough one third at a time, on a well floured surface, to ⅛" thickness. Cut into desired shapes with cutters or pastry wheel.
 7. Place on greased cookie sheets. If desired, place blanched almond halves in the center of each.
-8. Bake at 375 for 8-10 minutes.
+8. Bake at 375° for 8-10 minutes.

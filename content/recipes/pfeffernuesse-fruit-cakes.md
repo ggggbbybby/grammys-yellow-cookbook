@@ -29,9 +29,9 @@ author = 'Mary M Olson'
 4. Add eggs, anise seed and anise extract to sugar-butter mixture. Mix well.
 5. Stir in dry ingredients, then fruit mixture. Chill 4 hours or overnight.
 6. Shape into 1-inch balls with floured hands. Place on greased cookie sheets.
-7. Bake at 350 for 15 to 18 minutes. Dip warm cokies into sugar glaze and cool.
+7. Bake at 350° for 15 to 18 minutes. Dip warm cokies into sugar glaze and cool.
 
 ### Sugar Glaze
-Comiben 1 cup sugar, ½ cup water, and ¼ tsp cream of tartar in a small pan. Boil until clear, cool. Stir in 1/2 cup powdered sugar.
+Comiben 1 cup sugar, ½ cup water, and ¼ tsp cream of tartar in a small pan. Boil until clear, cool. Stir in ½ cup powdered sugar.
 
 this will trigger the bot

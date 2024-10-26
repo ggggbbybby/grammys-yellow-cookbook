@@ -17,5 +17,5 @@ yield = '2 pans of molded cookies'
 2. Add salt, eggs, and vanilla, mix well.
 3. Add flour and stir until mixture is well combined.
 4. Press dough into molds.
-5. Bake at 350 for 15-18 minutes or until golden brown. (Note from Grammy: don't let the tops brown)
+5. Bake at 350° for 15-18 minutes or until golden brown. (Note from Grammy: don't let the tops brown)
 6. Let cool 1 minute, place cooling rack over mold and invert carefully. Remove mold and allow cokies to cool.

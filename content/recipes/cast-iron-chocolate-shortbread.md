@@ -19,4 +19,4 @@ tags = ['cast iron', 'cookies']
 3. Add vanilla.
 4. Sift flour, cornstarch, and salt together. Stir in nuts and mix into creamed mixture.
 5. Press into mold and trim. 
-6. Bake at 325 for 20 to 30 minutes until cookie is firm. Cool 10-15 minutes before turning out.
+6. Bake at 325° for 20 to 30 minutes until cookie is firm. Cool 10-15 minutes before turning out.

@@ -13,4 +13,4 @@ tags = ['cookies']
 * 1 cup chopped pecans
 
 1. Roll into balls, and roll in powdered sugar
-2. Bake at 325 for 25 minutes.
+2. Bake at 325° for 25 minutes.

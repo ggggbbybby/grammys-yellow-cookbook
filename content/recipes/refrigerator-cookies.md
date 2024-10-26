@@ -17,6 +17,6 @@ tags = ['cookies']
 1. Mix.
 2. Shape in roll.
 3. Wrap in wax paper and store in refrigerator.
-4. Slice off and bake on buttered cookie sheet for 8 minutes at 400.
+4. Slice off and bake on buttered cookie sheet for 8 minutes at 400°.
 
 _good with black walnuts_

@@ -14,7 +14,7 @@ tags = ['pudding']
 1. Beat eggs sslightly, add sugar and salt and slowly pour on scalded milk.
 2. Pour into buttered custard cups. Sprinkle with nutmeg.
 3. Sit in pan of hot water with lining of several layers of papers.
-4. Bake at 350 until firm.
+4. Bake at 350° until firm.
 
 #### Ginger Custard
 Flavor with vanilla or 2 tbsp rum. Garnish sides of molds with strips (cut thin) of candied ginger.

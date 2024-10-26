@@ -20,4 +20,4 @@ tags = ['cookies']
 2. Add molasses and egg, beat well.
 3. Add flour, soda, cinnamon, cloves, ginger and salt. Mix well and chill.
 4. Form 1" balls and roll in sugar.
-5. Place on greased cookie sheet, bake at 375 for 6-8 minutes.
+5. Place on greased cookie sheet, bake at 375° for 6-8 minutes.

@@ -20,7 +20,7 @@ tags = ['cookies']
 1. Pour butter over oats, mix thoroughly.
 2. Add sugar, syrup, sart and vanilla, blending well.
 3. Pack firmly into greased 7" x 11" pan
-4. Bake at 450 for 12 minutes. Let cool.
+4. Bake at 450° for 12 minutes. Let cool.
 5. Loosen edges and turn out of pan.
 6. Spread with melted chocolate. Sprinkle with nutmeats.
 7. Chill and cut into bars

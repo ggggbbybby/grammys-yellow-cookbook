@@ -15,7 +15,7 @@ yield = '3 dozen'
 1. Blend together butter and ½ cup powdered sugar until pale in color.
 2. Mix in flour.
 3. Press into lightly buttered 13x9 inch baking pan.
-4. Bake at 350 degrees 20 to 25 minutes or until set. Set aside.
+4. Bake at 350° degrees 20 to 25 minutes or until set. Set aside.
 
 ## Filling
 * 4 eggs
@@ -25,6 +25,6 @@ yield = '3 dozen'
 * ½ teaspoon baking powder.
 
 1. Combine eggs, sugar, lemon juice, flour, and baking powder.
-2. Pour filling over cookie layer and bake at 350 degrees 25 to 30 minutes
+2. Pour filling over cookie layer and bake at 350° degrees 25 to 30 minutes
 3. Cool slightly, then cut into squares.
 4. Dust lightly with additional powdered sugar.

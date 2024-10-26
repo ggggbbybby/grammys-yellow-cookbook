@@ -36,4 +36,4 @@ When cool, stir in cherries, coconut, and nuts.
 5. Chill about 2 hours.
 6. Using saw-toothed spritz plate, press dough into strips across ungreased cookie sheet.
 7. Spread each strip with filling. Press a second strip of dough over filling.
-8. Bake at 375 for 12 to 15 minutes. Cut into 2 inch bars immediately.
+8. Bake at 375° for 12 to 15 minutes. Cut into 2 inch bars immediately.

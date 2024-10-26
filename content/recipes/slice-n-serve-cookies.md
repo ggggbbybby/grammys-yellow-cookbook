@@ -32,7 +32,7 @@ Cream butter. Blend powdered sugar alternately with cream. Add vanilla.
 3. Fold in the dry ingredients, half at a time, gently.
 4. Spread in a jelly roll pan, lined with waxed paper, well greased and heavily floured.
 5. Drain cherries. Arrange 10 cherries across each end of the batter.
-6. Bake at 325 for 25 to 35 minutes.
+6. Bake at 325° for 25 to 35 minutes.
 7. Turn out onto waxed paper sprinkled with powdered sugar. Remove paper, cut into two 10x7" rectangles.
 8. Roll each tightly, beginning with the cherry end. Wrap and cool.
 9. Spread rolls with frosting and roll in pecans. Chill, and cut into ½" slices before serving.

@@ -25,4 +25,4 @@ _A delicious candy cookie, rich with chocolate and nuts._
 3. Blend in egg, vanilla, and dry ingredients. Beat well.
 4. Stir in pecans.
 5. Drop by scant teaspoonfuls onto greased cookie sheet.
-6. Bake at 350 for 10-12 minutes. Cool 1 minute and remove from cookie sheets. 
+6. Bake at 350° for 10-12 minutes. Cool 1 minute and remove from cookie sheets. 

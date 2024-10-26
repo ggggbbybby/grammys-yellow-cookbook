@@ -15,4 +15,4 @@ tags = ['cookies', 'confusing']
 3. Knead dough as you would bread (20 min)
 4. Smooth in a 7½" x 11" x ¾" pan with the back of a spoon
 5. Prick with a fork and cut into pieces
-6. Bake at 300 for 45 minutes.
+6. Bake at 300° for 45 minutes.

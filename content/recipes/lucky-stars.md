@@ -10,10 +10,10 @@ yield = '2 to 3 dozen cookies'
 ### Nut Filling
 * 1¼ cups walnuts, ground
 * ⅓ cup sugar
-* 1/16 tsp salt
+* ¹⁄₁₆ tsp salt
 * 1 tbsp melted butter
 * 2 tbsp water
-* 1/16 tsp maple flavoring
+* ¹⁄₁₆ tsp maple flavoring
 
 Mix well.
 
@@ -23,13 +23,13 @@ Mix well.
 * ¼ cup sugar
 * 1 tsp vanilla
 * 1 tsp almond extract
-* 1/8 tsp salt
+* ⅛ tsp salt
 * 1 egg
 
 1. Sift together flour and baking powder.
 2. Cream butter and sugar.
 3. Blend in vanilla, almond extract, salt, and egg. 
 4. Gradually add the dry ingredients, mix well.
-5. Roll out on floured surface to 1/8". Cut with a star-shaped cutter.
+5. Roll out on floured surface to ⅛". Cut with a star-shaped cutter.
 6. Place a teaspoonful of filling in center of each star. Bring 5 points upright. Starting at the base, pinch sides together so points stand up, allowing filling to show.
-7. Place on ungreased cookie sheets and bake at 400 for 7-10 minutes.
+7. Place on ungreased cookie sheets and bake at 400° for 7-10 minutes.

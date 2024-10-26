@@ -23,4 +23,4 @@ tags = ['bread']
 4. Brush top of dough with oil and cover with towel, let rise 10 minutes.
 5. Break off small pieces of dough (about 20), form into long ropes. Twist into knots and place on greased baking sheets dusted with cornmeal.
 6. Cover twists with a towel and let rise in a warm place until doubled, about 30 minutes.
-7. Brush with egg white and sprinkle with poppy seeds. Bake at 350 for 15 to 20 minutes or until golden brown. Cool on rack.
+7. Brush with egg white and sprinkle with poppy seeds. Bake at 350° for 15 to 20 minutes or until golden brown. Cool on rack.

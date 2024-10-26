@@ -25,4 +25,4 @@ author = ''
 2. Sift dry ingredients and add alteranetly with mashed bananas.
 3. Add vanilla, and lastly add the toasted oats, nuts, and coconut.
 4. Drop by tsp on ungreased cookie sheets.
-5. Bake at 400 (or 375) for 15 minutes.
+5. Bake at 400° (or 375) for 15 minutes.

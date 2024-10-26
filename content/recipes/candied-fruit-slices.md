@@ -20,5 +20,5 @@ yield = '7 dozen'
 3. Add flour, mix well.
 4. Stir in pecans and cherries. Chill 1 hour.
 5. Divide dough in thirds. Shape in rolls 12" long. Wrap in waxed paper and chill at least 3 hours.
-6. Cut into 1/8" slices and place on ungreased cookie sheets.
-7. Bake at 325 for 13-15 minutes until delicately browned on the edges.
+6. Cut into ⅛" slices and place on ungreased cookie sheets.
+7. Bake at 325° for 13-15 minutes until delicately browned on the edges.

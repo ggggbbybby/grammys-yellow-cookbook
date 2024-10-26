@@ -24,7 +24,7 @@ author = 'Nancy Albright'
 2. Add eggs, then sifted dry ingredients. Mix well.
 3. Form into walnut-sized balls and roll in cinnamon sugar topping.
 4. Space 2" apart on ungreased cookie sheet.
-5. Bake at 400 for 10 minutes. 
+5. Bake at 400° for 10 minutes. 
 
 _Cookies will puff up, then burst with crumpled top._
 

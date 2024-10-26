@@ -19,7 +19,7 @@ yield = '10 to 12 servings'
 1. Separate cookie halves, scrape off filling and set filling aside. 
 2. Break cookies into small pieces and combine with bread, cream, sugar, butter, eggs, vanilla, and nuts. Blend well.
 3. Add enough milk to make a moist pudding. Divide mixuter evenly between 2 greased 9" round cake pans.
-4. Bake at 350 degrees for 1 hour or until crust begins to form.
+4. Bake at 350° degrees for 1 hour or until crust begins to form.
 5. Cool and remove puddings from pans. Spread reserved cookie filling over top of one pudding and top with second.
 6. Cut into wedges to serve.
 

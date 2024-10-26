@@ -15,7 +15,7 @@ yield = '1½ dozen bars'
 
 1. Cut butter into flower and sugar until fine.
 2. Press into ungreased 11x7, 9x9, or 8x8 pan.
-3. Bake at 350 for 15 to 20 minutes until set but not brown.
+3. Bake at 350° for 15 to 20 minutes until set but not brown.
 
 ### Filling
 
@@ -24,12 +24,12 @@ yield = '1½ dozen bars'
 * ¾ cup coconut, chopped
 * ½ cup nuts, chopped
 * ¼ tsp salt
-* 1/8 tsp double-acting baking powder
+* ⅛ tsp double-acting baking powder
 * ½ tsp vanilla
 
 1. Mix well. 
 2. Spread on partially-baked dough.
-3. Bake at 350 for 25-30 minutes. Frost immediately.
+3. Bake at 350° for 25-30 minutes. Frost immediately.
 
 ### Frosting
 * 2 tsp grated lemon rind

@@ -16,4 +16,4 @@ yield = '2 pans of molded cookies'
 2. Beat butter until light, then beat in sugar.
 3. Add vanilla and lemon juice.
 4. Mix in the flour until the dough is smooth and stiff. You will have to do this with your hands.
-5. Press into molds. Bake at 425 for 8-10 minutes or until golden brown.
+5. Press into molds. Bake at 425° for 8-10 minutes or until golden brown.

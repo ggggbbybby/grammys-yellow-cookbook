@@ -12,4 +12,4 @@ title = 'Quick Apple Crisp'
 
 1. Turn applesauce into greased shallow casserole or pie tin. 
 2. Crumble graham crackers into melted butter. Stir in brown sugar and cinnamon.
-3. Sprinkle onto apple sauce. Bake 35 to 40 minutes at 350.
+3. Sprinkle onto apple sauce. Bake 35 to 40 minutes at 350°.

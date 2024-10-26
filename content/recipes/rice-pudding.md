@@ -15,6 +15,6 @@ tags = ['pudding']
 1. Scald milk with rice. 
 2. Beat eggs with sugar. Add hot mixture slowly.
 3. Pour ito buttered pudding dish and sprinkle with nutmeg.
-4. Bake at 325 for 1 hour. 
+4. Bake at 325° for 1 hour. 
 
 _Add raisins for additional flavor_

@@ -16,4 +16,4 @@ tags = ['cast iron', 'savory', 'muffins']
 1. Preheat oven to 375.
 2. Mix together flour, sugar, baking powder, and salt. Add corn meal.
 3. Add to mxture: egg, milk, and melted butter. Beat until smooth but don't over-mix.
-4. Bake in greased muffin pan at 375 for 12-15 minutes or until lightly browned.
+4. Bake in greased muffin pan at 375° for 12-15 minutes or until lightly browned.

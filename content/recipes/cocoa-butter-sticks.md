@@ -27,6 +27,6 @@ _A Swedish butter cookie with a milk chocolate flavor._
 6. Place 4 inches apart on ungreased cookie sheets. Flatten to ¼" with floured fork. Smooth edges.
 7. Blend cold water and reserved egg, brush over dough.
 8. Combine almonds and 2 tbsp sugar, sprinkle over dough.
-9. Bake at 400 for 10-12 minutes until set but not browned. Cool 1 minute, cut into 1" bars.
+9. Bake at 400° for 10-12 minutes until set but not browned. Cool 1 minute, cut into 1" bars.
 
 _or mould rounded teaspoonfuls of dough into balls, place on ungreased cookie sheets. Flatten with fork, brush and top as above. Makes 3-4 dozen._

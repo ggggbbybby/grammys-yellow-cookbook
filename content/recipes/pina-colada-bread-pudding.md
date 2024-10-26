@@ -21,5 +21,5 @@ yield = 'about 10 servings'
 * Rum Sauce
 
 1. Combine all ingredients in a large bowl. Blend well and let stand for 10 minutes. Mixture should be moist but not soupy.
-2. Pour into greased 3 quart baking dish and bake on middle oven rack at 350 degrees for 70 to 75 minute or until top is golden brown.
+2. Pour into greased 3 quart baking dish and bake on middle oven rack at 350° degrees for 70 to 75 minute or until top is golden brown.
 3. Serve warm with rum sauce.

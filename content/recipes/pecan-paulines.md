@@ -23,9 +23,9 @@ _Brown sugar cookies made to resemble pralines._
 2. Cream butter and sugar. Beat in egg, vanilla, and maple flavoring.
 3. Add dry ingredients gradually, mix well. Chill if desired.
 4. Shape dough into an 8" roll. Wrap in waxed paper and chill 4 hours.
-5. Cut into 1/8" slices, place on greased cookie sheets.
+5. Cut into ⅛" slices, place on greased cookie sheets.
 6. Break pecan halves in 2 to 4 pieces. Gently press 4-5 pieces onto each cookie.
-7. Bake at 350 for 8-10 minutes. 
+7. Bake at 350° for 8-10 minutes. 
 8. Drizzle a scant teaspoon of Praline Frosting over each cookie.
 
 ### Praline Frosting

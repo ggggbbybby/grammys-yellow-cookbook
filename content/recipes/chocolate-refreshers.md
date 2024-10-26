@@ -33,4 +33,4 @@ Combine powdered sugar, butter, and orange rind. Blend in cream until of spreadi
 3. Stir in chocolate. Add eggs. Mix well.
 4. Add dry ingredients alternately with orange juice and milk. Blend thoroughly.
 5. Stir in chopped walnuts. Srpead batter in a well-greased 15x10x1 jelly roll pan.
-6. Bake at 350 for 25 to 30 minutes. Cool and frost.
+6. Bake at 350° for 25 to 30 minutes. Cool and frost.

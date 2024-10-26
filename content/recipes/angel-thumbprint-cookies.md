@@ -26,4 +26,4 @@ tags = ['cookies']
 4. Dip in egg white, roll in nuts
 5. Place on ungreased cookie sheet ~ 2" apart.
 6. Make imprint with thumb and fill with jam.
-7. Bake at 325 for 20-25 minutes.
+7. Bake at 325° for 20-25 minutes.

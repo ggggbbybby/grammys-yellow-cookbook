@@ -23,4 +23,4 @@ yield = '5½ dozen'
 2. Blend in flour.
 3. Shape into balls, using a teaspoon for each. Dip into slightly beaten egg whites and then pecans.
 4. Place on greased cookie sheets, flatten slightly. Top with a piece of candied cherry.
-5. Bake at 375 for 12 to 15 minutes.
+5. Bake at 375° for 12 to 15 minutes.

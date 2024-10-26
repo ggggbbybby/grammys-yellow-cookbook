@@ -39,4 +39,4 @@ Melt chocolate over boiling water. Remove from heat and stir in coconut.
 5. Roll out dough on a floured surface to form two 10x8" rectangles. Spread with filling and roll up along the long side. 
 6. Wrap in waxed paper and chill 2 hours. 
 7. Cut into ¼" slices, place on lightly greased cookie sheets.
-8. Bake at 400 for 8-10 minutes.
+8. Bake at 400° for 8-10 minutes.

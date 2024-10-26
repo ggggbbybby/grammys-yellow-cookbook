@@ -20,7 +20,7 @@ yield = '3 dozen bars'
 ### Almond Glaze
 * 1 tbsp soft butter
 * ¾ cup sifted powdered sugar
-* 1/8 tsp almond extract
+* ⅛ tsp almond extract
 * 1 to 2 tbsp milk
 
 Combine butter, powdered sugar, and almond extract. Add milk until of spreading consistency.
@@ -30,4 +30,4 @@ Combine butter, powdered sugar, and almond extract. Add milk until of spreading 
 3. Add flour to form a stiff dough.
 4. Stir in chocolate and almonds.
 5. Press into well-greased jelly roll pan.
-6. Bake at 350 for 20-25 minutes. Frost while warm.
+6. Bake at 350° for 20-25 minutes. Frost while warm.
