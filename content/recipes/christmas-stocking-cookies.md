@@ -9,8 +9,8 @@ author = ''
 
 * 2 cups sifted AP flour
 * 1 tsp baking powder
-* 1/2 tsp salt
-* 1/2 cup butter
+* ½ tsp salt
+* ½ cup butter
 * 1 cup sugar
 * 1 egg
 * 1 tbsp milk
@@ -23,6 +23,6 @@ author = ''
 2. Cream butter, gradually beat in sugar. Beat until well blended.
 3. Add egg, milk, lemon extract, and lemon peel, beat well.
 4. Stir in sifted ingredients a little at a time, blend well. Chill until firm.
-5. Roll out dough on a lightly floured board, a little at a time, 1/4 inch thick. Cut with a stocking cutter and place on greased cookie sheets.
-6. Bake at 375 for 7 minutes, or until light brown. Remove from sheets and cool on rack.
+5. Roll out dough on a lightly floured board, a little at a time, ¼ inch thick. Cut with a stocking cutter and place on greased cookie sheets.
+6. Bake at 375°for 7 minutes, or until light brown. Remove from sheets and cool on rack.
 7. Decorate with icing, candy, and sprinkles. 

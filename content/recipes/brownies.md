@@ -10,18 +10,18 @@ author = 'Val'
 * 1 cup butter, melted
 * 2 cups sugar
 * 4 heaping tbsp cocoa
-* 1 1/2 cups flour
+* 1½ cups flour
 * 4 eggs
 * 2 tsp vanilla
 * salt to taste
 * 2 cups pecans, chopped
 
 1. Mix all ingredients.
-2. Bake at 325 for 25 minutes in a 15x10" pan. 
+2. Bake at 325°for 25 minutes in a 15x10" pan. 
 
 #### Icing
 * 4 tbsp butter
-* 3/4 box powdered sugar
+* ¾ box powdered sugar
 * 1 egg
 * 2 tbsp rum
 * 2 tbsp cocoa
