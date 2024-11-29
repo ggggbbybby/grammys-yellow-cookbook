@@ -7,13 +7,13 @@ yield = ''
 author = ''
 +++
 
-* 1/4 cup butter
-* 3/4 cup sugar
+* ¼ cup butter
+* ¾ cup sugar
 * 1 egg
-* 1/4 tsp salt
-* 1 1/3 cup flour
+* ¼ tsp salt
+* 1⅓ cup flour
 * 2 tsp baking powder
-* 1/2 cup milk
-* 1/2 tsp vanilla
+* ½ cup milk
+* ½ tsp vanilla
 
 This is a good cake for Pineapple Upside-down Cake

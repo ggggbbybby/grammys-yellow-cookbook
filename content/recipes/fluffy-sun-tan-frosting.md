@@ -7,11 +7,11 @@ yield = ''
 author = ''
 +++
 
-* 1 1/2 cups dark brown sugar, packed
+* 1½ cups dark brown sugar, packed
 * 2 egg whites
 * 6 tbsp cold water
 * 2 tsp light corn syrup
-* 1/8 tsp salt
+* ⅛ tsp salt
 * 1 tsp vanilla
 * 1 tsp powdered sugar
 

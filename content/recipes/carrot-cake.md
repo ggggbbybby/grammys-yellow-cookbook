@@ -8,21 +8,21 @@ author = "Grammy's friend Val"
 +++
 
 * 3 cups carrots, grated
-* 1 1/2 cup oil
+* 1½ cup oil
 * 2 cups sugar
 * 4 eggs
 * 2 cups flour
 * 3 tsp cinnamon
 * 2 tsp baking soda
 * 1 tsp salt
-* 1/2 cup chopped walnuts
+* ½ cup chopped walnuts
 
 1. Mix carrots, oil, sugar, and eggs. 
 2. Mix together dry ingredients. Add to carrot mixture and mix.
-3. Pour into greased and floured 9x13" pan. Bake at 350 for 45 minutes.
+3. Pour into greased and floured 9x13" pan. Bake at 350°for 45 minutes.
 
 ### Cream Cheese Frosting
 * 3 oz cream cheese
-* 1/2 tsp salt
+* ½ tsp salt
 * 3 tbsp cream
-* 2 1/2 cups powdered sugar
+* 2½ cups powdered sugar
