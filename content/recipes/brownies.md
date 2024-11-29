@@ -4,7 +4,7 @@ draft = false
 title = 'Brownies'
 tags = ['cookies', 'bar cookies']
 yield = '2 dozen'
-author = 'Val'
+author = "Grammy's friend Val"
 +++
 
 * 1 cup butter, melted
