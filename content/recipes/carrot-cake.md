@@ -4,7 +4,7 @@ draft = false
 title = 'Carrot Cake'
 tags = ['cake']
 yield = ''
-author = "Grammy's friend Val"
+author = "Val Montgomery"
 +++
 
 * 3 cups carrots, grated
