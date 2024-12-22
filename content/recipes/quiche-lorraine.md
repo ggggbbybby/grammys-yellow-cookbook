@@ -24,4 +24,4 @@ author = ''
 3. Shred or grate cheese, chop onion, and set aside.
 4. In a bowl, beat eggs lightly with a fork for about 30 seconds. Add cream, sugar, salt, and pepper.
 5. Spread one layer each of bacon, cheese, and onion. Add cream mixture.
-6. Bake at 425°for 15 minutes, then reduce temperature and bake at 300 for 30-40 minutes. Let stand for a few minutes before cutting.
+6. Bake at 425° for 15 minutes, then reduce temperature and bake at 300° for 30-40 minutes. Let stand for a few minutes before cutting.
